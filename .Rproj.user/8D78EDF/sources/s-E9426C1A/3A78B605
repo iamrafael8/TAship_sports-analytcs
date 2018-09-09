@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536443827106.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1983047720",
+    "id" : "3A78B605",
+    "lastKnownWriteTime" : 1536530517,
+    "last_content_update" : 1536530517405,
+    "path" : "~/Users/iamrafael8/TA_sports analytcs/inner join.R",
+    "project_path" : "inner join.R",
+    "properties" : {
+        "cursorPosition" : "49,0",
+        "scrollLine" : "1",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

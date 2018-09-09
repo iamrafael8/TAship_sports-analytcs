@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536521805811.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8A5B73BA",
+    "lastKnownWriteTime" : 4323877888,
+    "last_content_update" : 1536521805811,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5680AEEB",
+        "caption" : "df_mergeed",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=df_mergeed&cache_key=5680AEEB",
+        "displayedObservations" : 8180,
+        "environment" : "",
+        "object" : "df_mergeed",
+        "preview" : 0,
+        "totalObservations" : 8180,
+        "variables" : 15
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
